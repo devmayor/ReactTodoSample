@@ -1,2 +1,0 @@
-# ReactTodoSample
-Created with CodeSandbox
